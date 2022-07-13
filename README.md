@@ -19,7 +19,7 @@ Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 ## Intro to basic coding and Open Fuego
 
-[Summer Institute for Global Educators]()
+[Summer Institute for Global Educators](https://pitt-fuego.github.io/Summer-Institute-for-Global-Educators/)
 
 
 [Open Fuego Intro](https://sjquigley.github.io/Open-Fuego-Presentation/)<p>&nbsp;</p>
