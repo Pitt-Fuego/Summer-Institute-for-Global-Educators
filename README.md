@@ -2,7 +2,7 @@
 ##### Welcome to the Summer Institute for Global Educators Webtext Coding Workshop
 
 
-### Schedule:
+### Schedule (10:30-11:50):
 * Introductions
 * Intro to our webtext, basic coding and Open Fuego 
 * README: getting started working *with code* in **Open Fuego 
@@ -36,7 +36,7 @@ Name, Pronouns, School, Grade Level, Subject<p>&nbsp;</p>
 
 5. Use the text editor to open the index.html document from your project folder.  
 
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own web text! 
+6. Start working with code by reading through the index.html where you'll find instructions on how to build your own web text! Use these [common image files](https://drive.google.com/drive/folders/1-vnVUo7oW5A48UpPyoWaTf3TaPQIBcTD?usp=sharing) to enhance your webtext. 
 
 7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes." 
 
@@ -59,14 +59,13 @@ Once you have published your webtext to GitHub, please share the URL with the Su
 
 ## Reflection
 
-* Does everyone need to learn to code?
 * Should everyone learn a little about code?
-* When we talk about a healthy environment to live, learn, and work, should we also be talking about open access to technology and data science?
-* * How do global citizens use data and code to advocate for social and environmental justice in their community?
+* How do global citizens use data and code to advocate for social and environmental justice in their community?
+* Is open access to code and data science an ethical imperative?
 * Is there value in intertwining coding education with global studies education?
 * Are there any dangers as to how student observations might be shared?
-* What jobs could this be useful in?
-* How else can schools better ensure that *everyone* has a voice in the conversation about technology and data?
+* What jobs could this coding knowledge be useful in?
+* How can schools better ensure that *everyone* has a voice in the conversation about code and data?
 <p>&nbsp;</p>
 
 
